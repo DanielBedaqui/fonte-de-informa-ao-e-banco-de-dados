@@ -5,10 +5,6 @@ Apresentacão feita utilizando Canvas, apresentada de forma oral
 [Apresentação - Banco de dados.pdf](https://github.com/user-attachments/files/25590030/Apresentacao.-.Banco.de.dados.pdf)
 <img width="1579" height="872" alt="Captura de tela 2026-02-26 211545" src="https://github.com/user-attachments/assets/0aa22486-8c49-4b3d-80a1-65e6a1a24ecb" />
 
-## APRESENTAÇÃO FATEC GPI - EM EQUIPE UTILIZANDO SOFTWARE DE DESIGN GRÁFICO
-Apresentação produzida pelo CANVAS, e foi apresentado de forma oral.
-[Apresentação01.pdf](https://github.com/user-attachments/files/26804366/Apresentacao01.pdf)
-<img width="1228" height="689" alt="jacques" src="https://github.com/user-attachments/assets/675d62cd-1ab7-4d64-a283-cb2e5e7c9599" />
 
 ## Simulação API - Projeto Integrador
 Ensaio para a API.
