@@ -30,7 +30,12 @@ Evidência - <img width="1366" height="768" alt="fornecedoresjc" src="https://gi
 https://docs.google.com/spreadsheets/d/19HB8JEV6hIH7cVFf6rd-9ZEfIw8-Oeon/edit?usp=sharing&ouid=101810325832933042067&rtpof=true&sd=true
 <img width="1919" height="841" alt="Captura de tela 2026-04-10 221041" src="https://github.com/user-attachments/assets/5611617a-da9c-4812-b69b-b7448f769a4b" />
 
+
 # Utilizando o Excel, Kaggle e Colab para comparar o consumo de cerveja no estado de São Paulo.
 [Consumo_cerveja.xlsx](https://github.com/user-attachments/files/27838924/Consumo_cerveja.xlsx)
    <img width="1920" height="1080" alt="Captura de Tela (1)" src="https://github.com/user-attachments/assets/bd7c8e29-d419-4efa-a16a-6d5a59b0def9" />
 
+
+# Utilizando o Excel, Kaggle e Colab para relacionar a temperatura e a venda de sorvetes.
+[Ice Cream Sales - temperatures.xlsx](https://github.com/user-attachments/files/27839000/Ice.Cream.Sales.-.temperatures.xlsx)
+<img width="1904" height="841" alt="Captura de tela 2026-05-15 223305" src="https://github.com/user-attachments/assets/a848b470-1bcc-414d-8dc8-ab541edd0358" />
