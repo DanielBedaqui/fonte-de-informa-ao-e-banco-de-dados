@@ -32,3 +32,5 @@ https://docs.google.com/spreadsheets/d/19HB8JEV6hIH7cVFf6rd-9ZEfIw8-Oeon/edit?us
 
 # Utilizando o Excel, Kaggle e Colab para comparar o consumo de cerveja no estado de São Paulo.
 [Consumo_cerveja.xlsx](https://github.com/user-attachments/files/27838924/Consumo_cerveja.xlsx)
+   <img width="1920" height="1080" alt="Captura de Tela (1)" src="https://github.com/user-attachments/assets/bd7c8e29-d419-4efa-a16a-6d5a59b0def9" />
+
