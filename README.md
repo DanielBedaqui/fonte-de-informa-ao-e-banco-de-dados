@@ -39,3 +39,12 @@ https://docs.google.com/spreadsheets/d/19HB8JEV6hIH7cVFf6rd-9ZEfIw8-Oeon/edit?us
 # Utilizando o Excel, Kaggle e Colab para relacionar a temperatura e a venda de sorvetes.
 [Ice Cream Sales - temperatures.xlsx](https://github.com/user-attachments/files/27839000/Ice.Cream.Sales.-.temperatures.xlsx)
 <img width="1904" height="841" alt="Captura de tela 2026-05-15 223305" src="https://github.com/user-attachments/assets/a848b470-1bcc-414d-8dc8-ab541edd0358" />
+
+
+##  Prova 29/05
+
+<img width="1284" height="720" alt="Captura de tela 2026-05-29 210128" src="https://github.com/user-attachments/assets/36ed10d2-49ee-407b-9aca-818569c66029" />
+
+
+https://github.com/user-attachments/assets/eb59e847-68ca-4667-a198-f90b21aec42b
+
